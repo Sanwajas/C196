@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">School Schedule</string>
+    <string name="school_cap_and_gown">School Cap and Gown</string>
+    <string name="All_Terms">All Terms</string>
+    <string name="All_Classes">All Classes</string>
+    <string name="All_Assessments">All Assessments</string>
+    <string name="School_Name">SanwaJas School</string>
+    <string name="To_divider">  -  </string>
+    <string name="add_button">Add Button</string>
+    <string name="assessment_name">Assessment Name</string>
+    <string name="course">Course</string>
+    <string name="assessment_type">Assessment Type</string>
+    <string name="deadline">Deadline</string>
+    <string name="class_name">Class Name</string>
+    <string name="term">Term</string>
+    <string name="instructor_name">Instructor Name</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="instructor_e_mail">Instructor E-mail</string>
+    <string name="instructor_phone">Instructor Phone</string>
+    <string name="class_notes">Class Notes</string>
+    <string name="class_status">Class Status</string>
+    <string name="refresh">Refresh</string>
+    <string name="term_name">Term Name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="channel_name">channelname</string>
+    <string name="channel_description">channel description</string>
+    <string name="notification">Notification</string>
+    <string-array name="Assessment_Types">
+        <item>Oral</item>
+        <item>Objective</item>
+        <item>Performance</item>
+    </string-array>
+    <string-array name="Class_Status">
+        <item>Pending</item>
+        <item>Plan to Take</item>
+        <item>In-Progress</item>
+        <item>Completed</item>
+    </string-array>
+</resources>
